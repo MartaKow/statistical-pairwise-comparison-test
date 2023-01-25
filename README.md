@@ -1,2 +1,4 @@
 # statistical-pairwise-comparison-test
-A statistical pairwise comparison test (A/B test) in accordance with the ITU recommendation for an experiment checking the quality assessment of multimedia files (GIF files)
+A statistical pairwise comparison test (A/B test) in accordance with the ITU recommendation for an experiment checking the quality assessment of multimedia files (GIF files). 
+
+The script was created in order to perform a statistical analysis of the test result of pairwise comparisons of multimedia files. The test checked which file from the presented pair seems more real to the survey participant. Real and AI-generated gif files were presented. Participants marked one of three answers: object A is more real, object B is more real, both objects are equally real. Then, the participants' answers were included in the .xlsx file in the form of scores for each object, respectively: 1.0, 0.0 or 0.5. An example file with the results is included in the "ABresults.xlsx" file.
